@@ -1,1 +1,12 @@
-theme = "ghostwriter"
+baseURL = 'https://BryceMarshall.github.io/blog/'
+title = 'Bryce Marshall'
+theme = 'm10c'
+
+[params]
+  author = "Bryce Marshall"
+  description = "A blog exploring augmented cognition"
+
+  [[params.social]]
+    icon = "github"
+    name = "GitHub"
+    url = "https://github.com/BryceMarshall"

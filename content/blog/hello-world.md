@@ -1,7 +1,7 @@
 ---
 title: "Hello World"
 date: 2023-07-23T18:41:00-07:00
-draft: true
+draft: false
 ---
 
 I've been interested in the idea of 'active externalism' - in (very) rough terms, that an individual's mental states (hopes, fears, desires) are not fully contained within themselves & their mind.[^1]
